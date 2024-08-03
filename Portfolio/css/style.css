@@ -2796,12 +2796,7 @@ form .btn {
 
     .home {
         flex-direction: column;
-        margin-top: -4rem;
-    }
-
-    .home-content{
-        margin-left: 5rem;
-         
+        margin-top: -10rem;
     }
 
     .home-img img {
@@ -2818,7 +2813,7 @@ form .btn {
     }
 
     .home-content h1.name {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 
     .home-content h3.role {
@@ -2844,7 +2839,7 @@ form .btn {
 
     .about-content h2.heading {
         margin-top: 1rem;
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 
     .about-content h3.role {
@@ -2852,7 +2847,7 @@ form .btn {
     }
 
     .about-content pre.about-intro {
-        font-size: .8rem;
+        font-size: .7rem;
     }
 
     .skills-row {
