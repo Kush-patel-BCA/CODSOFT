@@ -1,7 +1,8 @@
 1. Portfolio
    
 The portfolio project is designed to showcase the developer's skills, projects, and experience.It includes sections like 'About Me', 'Skills', 'Projects', and 'Contact'. The design is responsive, ensuring optimal viewing across various devices. 
-Key technologies used are HTML, CSS, and JavaScript. The project demonstrates a strong understanding of web development fundamentals and effective use of modern web design principles.
+Key technologies used are HTML, CSS,
+and JavaScript. The project demonstrates a strong understanding of web development fundamentals and effective use of modern web design principles.
 
 2. Landing Page
 
